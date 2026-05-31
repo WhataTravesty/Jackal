@@ -15,3 +15,5 @@ def lookup_domain(domain):
 
 domain = input("Enter a domain to investigate: ")
 lookup_domain(domain)
+
+#comment to test
